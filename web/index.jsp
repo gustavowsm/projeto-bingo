@@ -12,27 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <br>
-        <br>
-        <br>
-        <br>
-    <center>
-        <h2>Login</h2>
-
-        <br>
-        <form method="post">
-
-
-            <b>Email</b>:
-            <input type="text" name="email"><br><br>
-
-            <b>Senha</b>:
-            <input type="password" name="senha"><br><br>
-
-            <input type="submit" value="Entrar"><br><br>
-
-        </form>
-    </center>
-
+<h1>Index</h1>
 </body>
 </html>
