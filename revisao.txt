@@ -1,0 +1,41 @@
+não precisa saber como a logica do encapsulamento funciona
+
+polimorfismo que consegue sobrescrever classes das classes pai para um comportamento diferente
+
+abstração que vc faz a abstração de um conceito do mundo real
+
+qual a caracteristica de orientação a objeto que está utilizando naquele codigo
+
+eliminar desenho da arquitetura, arquitetura de sistemas e o arquiteto de sistemas.
+
+arquitetura monolitica, mvc, mvp, arquitetura orientada a serviços, arquitetura de microserviços, arquitetura serverless
+
+mvc model que liga com banco de dados 
+principal diferença entre mvc e mvp tem um relacionamento bidirecional entre os elementos 
+
+não vai ter questão da serverless
+
+não vai ter questões sobre os frameworks (coisas internas)
+
+aplicações web. serviços web e de aplicação, frameworks e frameworks web em java
+
+diferença entre errorpage e iserrorpage
+
+scriptlet <%%> não pode construir metodos
+pra fazer isso tem que por uma ! <%!%>
+
+objetos implicitos estudar request, response, session, exception
+
+objeto request
+princiais 
+getParameterNames
+ 
+getParameter(name)
+
+getParameterValues(nome)
+
+objeto response 
+setStatus(codigo) - define codigo de status pra resposta em caso de não ter erro
+sendRedirect - mesma função do forward - envia uma resposta para o navegador indicado que ele deve solicitar uma outra url
+
+stacktrace traz a pilha de erros chamando todos os metodos que foram chamados na pilha
